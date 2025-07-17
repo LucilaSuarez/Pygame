@@ -16,8 +16,8 @@ Este proyecto es un juego de trivia inspirado en "Preguntados", desarrollado en 
 
 ---
 
-👩‍💻 Autor
+## 👩🏼‍💻 Autor
 
-Lucila Micaela Suarez
+**Lucila Micaela Suarez**  
 
 Estudiante de programación | Proyecto académico para Programacion I
